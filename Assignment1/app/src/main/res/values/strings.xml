@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="button1">공주대 홈페이지 띄우기</string>
+    <string name="button2">전화걸기</string>
+    <string name="button3">토스트 메시지 띄우기</string>
+    <string name="button4">종료하기</string>
+</resources>
+
