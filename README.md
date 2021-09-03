@@ -6,4 +6,14 @@
 2개의 에디트 텍스트와 4개의 버튼으로 구성되어 있습니다 
 에디트 텍스트에 숫자를 입력하고 버튼을 누르면 사칙 연산이 되는 간단 프로그램입니다
 
+### 3-1. Assignment3_1
+> 애완동물 사진 보기
+<img width="50%" height="30%" src="https://user-images.githubusercontent.com/89582059/132000805-5f834874-b12a-4896-9ff1-7802a6951a23.gif"/>
+시작 버튼을 누르면 라디오 버튼 3개가 visible 상태로 전환되고 라디오 버튼을 1개 클릭 후 선택 완료 버튼을 누르면 그에 해당하는 동물 사진이 출력됩니다
+
+### 3-2. Assignment3_2
+> 테이블 레이아웃 사용
+<img width="50%" height="30%" src="https://user-images.githubusercontent.com/89582059/132000921-227d813b-62d3-4c62-bd74-f9434945f94f.gif"/>
+테이블 레이아웃을 사용한 사칙연산 계산기입니다
+
  
