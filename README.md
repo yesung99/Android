@@ -16,4 +16,13 @@
 <img width="50%" height="30%" src="https://user-images.githubusercontent.com/89582059/132000921-227d813b-62d3-4c62-bd74-f9434945f94f.gif"/>
 테이블 레이아웃을 사용한 사칙연산 계산기입니다
 
+### 4-1. Assignment4_1
+> 옵션 메뉴 활용
+<img width="50%" height="30%" src="https://user-images.githubusercontent.com/89582059/132091309-6ae5c3e7-ab72-439a-9d40-2123aae4a2a4.gif"/>
+오른쪽 상단의 옵션 메뉴를 선택하여 배경색을 바꾸고 토스트 메시지 버튼을 클릭하면 배경 색상 토스트 메시지로 출력됩니다
+
+### 4-2. Assignment4_2
+> 컨텍스트 메뉴 활용
+<img width="50%" height="30%" src="https://user-images.githubusercontent.com/89582059/132091324-e2ef0fb6-6a28-435e-8eb5-01ac1b1ac33b.gif"/>
+배경색 버튼을 누르면 컨텍스트 메뉴가 출력되고 배경색을 바꿀 수 있습니다 그리고 토스트 메시지 버튼을 클릭하면 배경 색상이 토스트 메시지로 출력됩니다
  
