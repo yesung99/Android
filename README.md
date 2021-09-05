@@ -25,4 +25,10 @@
 > 컨텍스트 메뉴 활용
 <img width="50%" height="30%" src="https://user-images.githubusercontent.com/89582059/132091324-e2ef0fb6-6a28-435e-8eb5-01ac1b1ac33b.gif"/>
 배경색 버튼을 누르면 컨텍스트 메뉴가 출력되고 배경색을 바꿀 수 있습니다 그리고 토스트 메시지 버튼을 클릭하면 배경 색상이 토스트 메시지로 출력됩니다
+
+### 5. Assignment5
+> 사용자 정보 입력 및 토스트 메시지 배경 변경
+<img width="50%" height="30%" src="https://user-images.githubusercontent.com/89582059/132126921-68514f41-564e-4ee2-8c8f-1416b61c30a8.gif"/>
+
+
  
