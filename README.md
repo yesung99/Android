@@ -30,5 +30,7 @@
 > 사용자 정보 입력 및 토스트 메시지 배경 변경
 <img width="50%" height="30%" src="https://user-images.githubusercontent.com/89582059/132126921-68514f41-564e-4ee2-8c8f-1416b61c30a8.gif"/>
 
-
- 
+### 6. Assignment6
+> 도형 그리기
+<img width="50%" height="30%" src="https://user-images.githubusercontent.com/89582059/132507099-f10ad19a-fd22-4317-8bc7-a5b2a1aef412.gif"/>
+초기 설정은 선으로 되어 있으며 옵션을 선택하여 도형의 색깔을 변경하고 
