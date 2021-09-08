@@ -33,4 +33,5 @@
 ### 6. Assignment6
 > 도형 그리기
 <img width="50%" height="30%" src="https://user-images.githubusercontent.com/89582059/132507099-f10ad19a-fd22-4317-8bc7-a5b2a1aef412.gif"/>
-초기 설정은 선으로 되어 있으며 옵션을 선택하여 도형의 색깔을 변경하고 
+초기 설정은 선으로 되어 있으며 옵션을 선택하여 도형의 색깔과 형태를 변경할 수 있습니다
+
