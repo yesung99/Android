@@ -35,3 +35,8 @@
 <img width="50%" height="30%" src="https://user-images.githubusercontent.com/89582059/132507099-f10ad19a-fd22-4317-8bc7-a5b2a1aef412.gif"/>
 초기 설정은 선으로 되어 있으며 옵션을 선택하여 도형의 색깔과 형태를 변경할 수 있습니다
 
+### 7. Assignment7
+> 양방향 액티비티
+<img width="50%" height="30%" src="https://user-images.githubusercontent.com/89582059/132969134-2a9c7c5c-f372-443d-b40b-d8103e00872b.gif"/>
+메인 액티비티에서 계산한 값이 새로 호출된 액티비티로 넘어가서 토스트 메시지 형식으로 출력됩니다
+
