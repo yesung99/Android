@@ -40,3 +40,8 @@
 <img width="50%" height="30%" src="https://user-images.githubusercontent.com/89582059/132969134-2a9c7c5c-f372-443d-b40b-d8103e00872b.gif"/>
 메인 액티비티에서 계산한 값이 새로 호출된 액티비티로 넘어가서 토스트 메시지 형식으로 출력됩니다
 
+### TermProject
+> 키오스크 앱 구현
+<img width="50%" height="30%" src="https://user-images.githubusercontent.com/89582059/133446594-3da73971-e46b-4dc6-8dc2-4d57b1e2b234.gif"/>
+
+
